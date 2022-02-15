@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: treatment_effect.pdf
-type: OCWFile
 uid: 436bcfe7-307f-1a0b-18a2-69ce5c706517
 ---

@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: nonsemi_est_edit.pdf
-type: OCWFile
 uid: 4633cb00-240d-478f-1e1b-e500bfddd82f
 ---

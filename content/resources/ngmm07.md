@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: ngmm07.pdf
-type: OCWFile
 uid: b8a285ca-daa8-2032-72ad-3cbce3ef445f
 ---

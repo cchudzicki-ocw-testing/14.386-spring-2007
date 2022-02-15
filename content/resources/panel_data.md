@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: panel_data.pdf
-type: OCWFile
 uid: 3bdaa08e-a3d6-7f42-2d78-ba7781f5bd6b
 ---
