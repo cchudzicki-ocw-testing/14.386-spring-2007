@@ -13,4 +13,4 @@ video_metadata:
 
 Problem Set 1 ({{% resource_link 9b759c77-fd35-3e33-685b-617f5a055554 "PDF" %}})
 
-Gasoline Data ([TXT](/courses/economics/14-386-new-econometric-methods-spring-2007/assignments/ps1_gasdata.txt))
+Gasoline Data ({{% resource_link ee97e21b-48ef-0a76-f855-15084123c4bd "TXT" %}})
