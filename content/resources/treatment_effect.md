@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: treatment_effect.pdf
 uid: 436bcfe7-307f-1a0b-18a2-69ce5c706517
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

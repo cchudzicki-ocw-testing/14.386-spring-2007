@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: panel_data.pdf
 uid: 3bdaa08e-a3d6-7f42-2d78-ba7781f5bd6b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ngmm07.pdf
 uid: b8a285ca-daa8-2032-72ad-3cbce3ef445f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

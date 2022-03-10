@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: nonsemi_est_edit.pdf
 uid: 4633cb00-240d-478f-1e1b-e500bfddd82f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

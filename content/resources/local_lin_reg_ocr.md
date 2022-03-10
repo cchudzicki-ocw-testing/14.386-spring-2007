@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: local_lin_reg_ocr.pdf
 uid: c978e7b1-2118-c22d-317d-5dedcbbf2cae
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
