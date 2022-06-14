@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on locally linear regression.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-386-new-econometric-methods-spring-2007/c978e7b12118c22d317d5dedcbbf2cae_local_lin_reg_ocr.pdf
+file: /courses/14-386-new-econometric-methods-spring-2007/c978e7b12118c22d317d5dedcbbf2cae_local_lin_reg_ocr.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture notes on locally linear regression.

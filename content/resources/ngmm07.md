@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on generalized method of moments.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-386-new-econometric-methods-spring-2007/b8a285cadaa8203272ad3cbce3ef445f_ngmm07.pdf
+file: /courses/14-386-new-econometric-methods-spring-2007/b8a285cadaa8203272ad3cbce3ef445f_ngmm07.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture notes on generalized method of moments.

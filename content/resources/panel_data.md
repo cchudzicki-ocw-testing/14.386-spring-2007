@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on nonlinear models in panel data.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-386-new-econometric-methods-spring-2007/3bdaa08ea3d67f422d78ba7781f5bd6b_panel_data.pdf
+file: /courses/14-386-new-econometric-methods-spring-2007/3bdaa08ea3d67f422d78ba7781f5bd6b_panel_data.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture notes on nonlinear models in panel data.
