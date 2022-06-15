@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course description and information about prerequisites,
+  textbooks, expectations, recommended citation, and the course outline.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

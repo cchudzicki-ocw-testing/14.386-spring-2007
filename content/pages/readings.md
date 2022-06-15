@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the readings for the lecture sessions,
+  and further reading.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
